@@ -18,7 +18,7 @@ class Profile extends Component {
         <Header>
           <Left />
           <Body>
-            <Text>Home</Text>
+            <Text>Profile</Text>
           </Body>
 
           <Right>
